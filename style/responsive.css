@@ -19,3 +19,14 @@
     	height:1000px;
     }	
 }
+
+@media screen and (max-width:320px){
+    .descricao{
+        width: 50%;
+    }
+    .filme-principal{
+        background-color: aliceblue;
+        height:200px;
+        width:320px;
+    }	
+}
