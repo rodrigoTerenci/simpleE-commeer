@@ -134,4 +134,14 @@ footer{
     border-top: 1px solid #EBEBEB;
     font-size: 0.9em;
     color: #666;
-    font-weight: 300;}
+    font-weight: 300;
+}
+
+footer a{
+    color:var(--cinza);
+}
+
+article{
+    width: 200px;
+    height: 300px;
+}
