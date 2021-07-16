@@ -1,0 +1,26 @@
+{
+  "name": "simplee-commeer",
+  "version": "1.0.0",
+  "description": "Modelo básico e-commerce com responsividade",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoTerenci/simpleE-commeer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoTerenci/simpleE-commeer/issues"
+  },
+  "homepage": "https://github.com/rodrigoTerenci/simpleE-commeer#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
