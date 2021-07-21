@@ -2,8 +2,8 @@
 FROM node:alpine as build-stage
 WORKDIR /app
 COPY package*.json ./
-RUN npm install -g npm@7.10.0
+RUN npm install -g npm@7.20.0
 COPY . .
-#RUN npm install
+RUN npm install
 CMD [ "npm","start" ]
-EXPOSE 3000
+EXPOSE 5000
