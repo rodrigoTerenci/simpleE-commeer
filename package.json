@@ -20,8 +20,7 @@
   },
   "homepage": "https://github.com/rodrigoTerenci/simpleE-commeer#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^2.0.12"
+    "express": "^4.17.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
