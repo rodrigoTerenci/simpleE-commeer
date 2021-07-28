@@ -2,12 +2,12 @@
   "name": "simplee-commeer",
   "version": "1.0.0",
   "description": "Modelo básico e-commerce com responsividade",
-  "main": "server.js",
+  "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon index.js",
-    "start": "nodemon server.js"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
