@@ -1,9 +1,11 @@
 function createDatabase(){
         function start(){
-            console.log('FODA-SE')
+            console.log('Conectando-se ao Banco de Dados...')
         }
         function stop(){
-            console.log('FODA-SE NAO VOU PARAR')
+            console.log('Desonectando do Banco de Dados...')
+    
+            console.log('Banco de Dados Desconectado...')
         }    
         return{
             start,
