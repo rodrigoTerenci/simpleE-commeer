@@ -14,7 +14,7 @@ function createServer(){
       )
 
       app.use(express.static('.'))
-      //server.listen(port)
+      server.listen(port)
       console.log('Conecção Estabelicida com Sucesso...')
   }
   function stop(){
