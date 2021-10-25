@@ -20,3 +20,4 @@ Loja de moda masculia e-commerce
 
 
 alexcortes.design@gmail.com
+<img width="1281" alt="UE" src="https://user-images.githubusercontent.com/45578535/138760242-f578a7df-f0b5-4d70-9f11-bb315c6c3bb4.PNG">
