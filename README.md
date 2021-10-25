@@ -17,3 +17,6 @@ Loja de moda masculia e-commerce
  -na página do carrinho o usuário dever ser capaz de adicionar e excluir itens que já estão no carrinhos;ou
  -voltar a páginas de compras;e
  -deve-se ser capaz de realizar pagamentos;
+
+
+alexcortes.design@gmail.com
