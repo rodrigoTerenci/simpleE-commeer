@@ -10,14 +10,14 @@ function createCore(configuration={}){
             database.start()
             console.log('SEJA BEM-VINDO(A)...')
         }
-        function stop(){
-            console.log('ATÉ A PRÓXIMA...')
-            webServer.stop()
-            database.stop()
-        }    
+        // function stop(){
+        //     console.log('ATÉ A PRÓXIMA...')
+        //     webServer.stop()
+        //     database.stop()
+        // }    
         return{
-            start,
-            stop
+            start
+            // stop
         }
 }
 
