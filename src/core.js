@@ -1,5 +1,5 @@
-import createServer from './src/server.js'
-import createDatabase from './database.js'
+import createServer from '../server.js'
+import createDatabase from '../database.js'
 
 function createCore(configuration={}){
     const webServer =   createServer()
